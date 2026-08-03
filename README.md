@@ -16,9 +16,9 @@
 
 > GitHub's inline viewer can occasionally fail to render PDFs correctly. Use the links below to open the documents directly in your browser instead:
 
-- 📄 [Components List](https://github.com/lpps-1/LFR---NuevoV2/blob/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Components.pdf)
-- 📄 [Technical Report](https://github.com/lpps-1/LFR---NuevoV2/blob/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Technical%20Report.pdf)
-- 📄 [Wiring Diagrams](https://github.com/lpps-1/LFR---NuevoV2/blob/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Wiring.pdf)
+- 📄 [Components List](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/lpps-1/LFR---NuevoV2/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Components.pdf)
+- 📄 [Technical Report](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/lpps-1/LFR---NuevoV2/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Technical%20Report.pdf)
+- 📄 [Wiring Diagrams](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/lpps-1/LFR---NuevoV2/main/1%20-%20Project%20Details%20%26%20Specs/Project%20Nuevo%20V2%20-%20Wiring.pdf)
 
 ---
 
